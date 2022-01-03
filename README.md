@@ -1,3 +1,3 @@
 # Functions-
-Type of Functions in pythond
+Type of Functions in python
 declare the function.
