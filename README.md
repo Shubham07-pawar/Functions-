@@ -1,2 +1,3 @@
 # Functions-
-Type of Functions in python
+Type of Functions in pythond
+declare the function.
